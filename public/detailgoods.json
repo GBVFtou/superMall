@@ -1,0 +1,89 @@
+[{
+	"goodImg": [
+		"https://a.vpimg4.com/upload/merchandise/pdcvis/2020/05/13/83/38160779-ed21-49b4-b494-042c2a1ec553_525x525_90.jpg",
+		"https://a.vpimg2.com/upload/merchandise/pdcvis/2020/05/13/174/881a68fc-c8b7-42fd-a867-543570124dde_525x525_90.jpg",
+		"https://a.vpimg4.com/upload/merchandise/pdcvis/2020/05/13/110/882bd388-e0d1-42f4-bb8d-fd4e478e7e9c_525x525_90.jpg",
+		"https://a.vpimg4.com/upload/merchandise/pdcvis/2020/05/13/53/9f940df9-1668-44db-b78c-e5eef6122f46_525x525_90.jpg"
+	],
+	"detail": {
+		"itemInfo": {
+			"price": "39.00",
+			"oldPrice": "55.72",
+			"desc": "7折"
+		},
+		"columns": ["销量86", "收藏14人", "72小时发货"],
+		"service": [{
+			"icon": "延误必赔"
+		}, {
+			"icon": "退货补运费"
+		}, {
+			"icon": "全国包邮"
+		}, {
+			"icon": "7天无理由退货"
+		}]
+	},
+	"goodsMoreInfo": [{
+		"img": "",
+		"name": "阿究究"
+	}, {
+		"allCount": "58000",
+		"num": "86"
+	}, {
+		"evaluation": ["4.62", "低"],
+		"price": ["5", "高"],
+		"quality": ["4.62", "低"]
+	}, {
+		"url": "https://list.vip.com/brand.html?sn=10000957&refer_url=https%3A%2F%2Fcategory.vip.com%2Fhome"
+	}],
+	"goodOneImgInfo": [{
+		"describe": "秋装裤子2018年新款套装时尚晚晚风气质气质港味女神网红两件套装俏皮"
+	}, {
+		"title": "穿着效果",
+		"img": []
+	}]
+	
+}, {
+	"goodImg": [
+		"https://a.vpimg3.com/upload/merchandise/pdcvis/2020/04/23/83/275e6f00-0550-4ece-beee-500790241b16_525x525_90.jpg",
+		"https://a.vpimg3.com/upload/merchandise/pdcvis/2020/04/23/185/11014d48-2766-4a4c-b5ad-c2b3cad30e81_525x525_90.jpg",
+		"https://a.vpimg4.com/upload/merchandise/pdcvis/2020/04/23/113/8198693f-9bf6-46d5-bd5d-417f2a561dce_525x525_90.jpg",
+		"https://a.vpimg4.com/upload/merchandise/pdcvis/2020/04/23/89/725d69e0-289e-4572-a053-cc0bd1a0fe47_525x525_90.jpg"
+	],
+	"detail": {
+		"itemInfo": {
+			"desc": "7折",
+			"price": "39.00",
+			"oldPrice": "55.72"
+		},
+		"columns": ["销量86", "收藏14人", "72小时发货"],
+		"service": [{
+			"icon": "延误必赔"
+		}, {
+			"icon": "退货补运费"
+		}, {
+			"icon": "全国包邮"
+		}, {
+			"icon": "7天无理由退货"
+		}]
+	},
+	"goodsMoreInfo": [{
+		"img": "https://www.baidu.com/link?url=kmBFUyOhIphwu-XK4z-antsHfKZkCfPy2EWf4MWgz4xtqv-jTJy4DhI4Ty_LAmQSshwuLAaqADddRtg1fH_n3FDJmKPU6vyWk5NmjlQ_AjVndYi4B29rkyjJ3Wbd4Dy7UjS7leyRXKNnfMCe-hUuicfnltil5bLGrrp332H3I2n0gZEJdQ9iruSq4GdpXF6F2n-eHzybXSrkTQ5nlo8bZ8NMkN3gaLf6yxDhIzHW6HHYZtG04SkUTgZXParV7ZnFConPYTg0AMxoEYnNH6vS1bNgfhQkCtxucc73Ke6AcQH8ZZ51Xzd_Ok1Ln800PKjSJPD5n1t0WyzSIoACPQ7puWSTfWi5eupDQ6iaE8OWv1qP73LN6hbHLtstYb31eipVeKjhjUrfzB8yfphTDkfnjFlPoNtFBwGQJt5PB-UFLFZP3uGF_u5bh8heU4RlUiaxRSdGz0c12Sjf8nfNPFzXgK2u3nyhGH_mdbj94RpgXiVqSVIukAJFz9B5FvK4iSc5hrH0eb9lNNeeZBiFnaZtpZ6-k0KWMtxEG43jRp5HqWtjzXcMnGxAxsUtAYkHPyrwLczXxtBPjP50HowafC8M6h6LON6WmSXJbYve_3ZRez48Q_PMTplqZ6CrNgNits9vKpmIMt2lsCMxmjkxTU3LLUj3Rs138MSutgP6NLsA4ge&timg=&click_t=1600588203391&s_info=1519_719&wd=&eqid=ddf7946d0003a54a000000055f6709a7",
+		"name": "阿究究"
+	}, {
+		"allCount": "58000",
+		"num": "86"
+	}, {
+		"evaluation": ["4.62", "低"],
+		"price": ["5", "高"],
+		"quality": ["4.62", "低"]
+	}, {
+		"url": "https://list.vip.com/brand.html?sn=10000957&refer_url=https%3A%2F%2Fcategory.vip.com%2Fhome"
+	}],
+	"goodOneImgInfo": [{
+		"describe": "秋装裤子2018年新款套装时尚晚晚风气质气质港味女神网红两件套装俏皮"
+	}, {
+		"title": "穿着效果",
+		"img": []
+	}]
+	
+}]
